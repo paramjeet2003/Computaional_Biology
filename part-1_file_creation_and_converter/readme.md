@@ -46,9 +46,7 @@ Ensure Python is correctly installed and that your PATH environment variable is 
 Check that the "ribosome" is correctly installed, especially if you receive errors related to file conversion. Verify that the ribosome and res.zmat files are in the correct locations and accessible to the script.
 
 ## Contributors
-Name :- Paramjeet Singh
-
-Roll no:- 210106044
+- Paramjeet Singh
 
 ## Contact
 For any query, please contact s.paramjeet@iitg.ac.in
