@@ -21,15 +21,14 @@ Ensure you have the above prerequisites installed on your system. You can instal
 pip install biopython
 pip install openbabel
 sudo apt install obabel
-
+```
 ## Usage
 ```bash
 python docking_ms.py protein.pdb ligand.sdf
-
+```
 ## Contributor
 - Name:- Paramjeet Singh
-- Roll no:- 210106044
-- This is under development project. I was working on this project but i stopped because of the End Semester exams and i will definetly start working again after endsems.
+- This is under development project.
 
 ## Contact
 - For any query, please contact s.paramjeet@iitg.ac.in
